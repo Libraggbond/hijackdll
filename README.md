@@ -1,2 +1,2 @@
 # hijackdll
-使用dll加载shellcode
+使用dll加载shellcode,可直接加载shellcode或加载外部二进制shellcode文件
